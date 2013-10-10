@@ -8,7 +8,8 @@ int main()
     printf("Press 'any' key. \n");
     putch(getch());
     getch();
-
+    
+    //newline
     // L1 Ex2
     char s[200];
     printf("\nPlease input a chareter string and press ENTER\n");
